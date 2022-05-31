@@ -1,0 +1,30 @@
+#!/bin/bash
+TOGGLE=$HOME/.toggle
+
+if [ ! -e $TOGGLE ]; then
+    touch $TOGGLE
+       newsink="0"
+
+pacmd set-default-sink "$newsink" >&2
+
+pactl list short sink-inputs|while read stream; do
+   streamid=$(echo -en $stream|cut '-d ' -f1)
+   echo -e "$forground_black$dim moving stream $streamid $reset" >&2
+   pactl move-sink-input "$streamid" "$newsink" >&2
+done
+
+   # $HOME/.config/awesome/bin/change-sink/change_sink_speakers
+else
+    rm $TOGGLE
+   newSink="1"
+
+pacmd set-default-sink "$newSink" >&2
+
+pactl list short sink-inputs|while read stream; do
+   streamId=$(echo -en $stream|cut '-d ' -f1)
+   echo -e "$FORGROUND_BLACK$DIM moving stream $streamId $RESET" >&2
+   pactl move-sink-input "$streamId" "$newSink" >&2
+done
+   # $HOME/.config/awesome/bin/change-sink/change_sink_bluetooth
+fi
+
