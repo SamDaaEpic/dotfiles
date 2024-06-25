@@ -109,13 +109,18 @@ globalkeys = gears.table.join(
                       -- Application Key Bindings --
                       ------------------------------
 
+	-- Color Picker
+        awful.key({ modkey, "Control"},  "p",     function ()
+		awful.util.spawn("xcolor") end,
+              		{description = "X Color Picker"}),
+
 	-- Mail (Thunderbird)
 	awful.key({ modkey },            "u",     function ()
 		awful.util.spawn("thunderbird") end,
               		{description = "thunderbird", group = "launcher"}),
 
 	-- Take ScreenSHot(flameshot)	
-	awful.key({ modkey, "Control"  },            "s",     function ()
+	awful.key({   },            "Print",     function ()
 		awful.util.spawn("flameshot full --path /home/SamDaaEpic/Pictures/") end,
 			{description = "Take A screenshot", group = "launcher"}),
 
@@ -287,7 +292,7 @@ globalkeys = gears.table.join(
             	c:raise()
         	end,
         	{description = "(un)maximize horizontally", group = "client"}))
-
+	
 -- Switching Between Tags (1-9)
 for i = 1, 9 do
     globalkeys = gears.table.join(globalkeys,

@@ -18,7 +18,7 @@ theme.font          = "sans 9"
 
 --Naughty Customization
 theme.notification_border_color = "#5DADE2"
-theme.notification_bg = "#5DADE2"
+theme.notification_bg = "#CAE9CA"
 theme.notification_fg = "#000000"
 theme.notification_shape = gears.shape.rounded_rect
 theme.notification_font = "sans 8"
