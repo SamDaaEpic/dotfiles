@@ -13,13 +13,20 @@ local wifi_widget = require("conf.bar.widgets.wifi")
 local bluetooth_widget = require("conf.bar.widgets.bluetooth")
 local signals = require("conf.core.signals")
 
-terminal = "alacritty"
+terminal = "kitty"
 
 left_bar = awful.popup {
 	widget = wibox.container.background,
  	position = "bottom",
   	maximum_height = 30,
   	bg = "00000000",
+placement = function(w)
+    awful.placement.bottom_left(w, { offset = { x = 21, y= -17 } }) 
+end,
+
+
+--	placement = awful.placement.bottom_left,
+--	offset= { x = -20, },
 	screen = s, 
 }
 
@@ -28,12 +35,16 @@ center_bar = awful.popup ({
 	position  = "bottom",
 	bg = "#CAE9CA",
 	minimum_height = 30,
-	minimum_width = 193,
-	opacity = 0,
+	--minimum_width = 193,
 	screen = s,
     	shape = function(cr, width, height)
      	gears.shape.rounded_rect(cr, width, height, 12)
     	end,
+	placement = function(w)
+    awful.placement.bottom(w, { offset = {  y= -17 } }) 
+end,
+
+
 })
 
 
@@ -45,14 +56,19 @@ right_bar = awful.popup ({
 	maximum_width = 323,
 	screen = s,
 	shape = gears.shape.rounded_rect,
+placement = function(w)
+    awful.placement.bottom_right(w, { offset = { x = -21, y= -17 } }) 
+end,
+
+
 })
 
-left_bar.x = 30
-left_bar.y = 848
-center_bar.x = 624
-center_bar.y = 848
-right_bar.x = 1093
-right_bar.y = 848
+--left_bar.x = 30
+--left_bar.y = 848
+--center_bar.x = 624
+--center_bar.y = 848
+--right_bar.x = 1093
+--right_bar.y = 848
 
     left_bar:struts {
 	bottom = 45

@@ -83,7 +83,7 @@ return function(s)
 
   local check_muted = function()
     awful.spawn.easy_async_with_shell(
-      "./.config/awesome/src/scripts/vol.sh mute",
+      "./.config/awesome/bin/vol.sh mute",
       function(stdout)
       if stdout:match("yes") then
         audio_widget.container.audio_layout.label.visible = false

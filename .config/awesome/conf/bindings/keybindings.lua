@@ -138,7 +138,7 @@ globalkeys = gears.table.join(
 
 	-- Chromium
         awful.key({ modkey },            "b",     function ()
-        	awful.util.spawn("chromium") end,
+        	awful.util.spawn("brave") end,
               		{description = "Bave Shortcut", group = "launcher"}),
 
 	-- Discord
@@ -212,15 +212,15 @@ globalkeys = gears.table.join(
 
 	-- Volume Increase
 	awful.key({ }, "XF86AudioRaiseVolume", function ()
-       		awful.util.spawn("amixer -D pulse set Master 9%+", false) end),
+       		awful.util.spawn("amixer -D pipewire set Master 9%+", false) end),
 
 	-- Volume Decrease
    	awful.key({ }, "XF86AudioLowerVolume", function ()
-       		awful.util.spawn("amixer -D pulse set Master 9%-", false) end),
+       		awful.util.spawn("amixer -D pipewire set Master 9%-", false) end),
 	
 	-- Mute Audio
    	awful.key({ }, "XF86AudioMute", function ()
-       		awful.util.spawn("amixer -D pulse set Master toggle", false) end),
+       		awful.util.spawn("amixer -D pipewire set Master toggle", false) end),
 
 	-- Play-Pause MPD Music
 	awful.key({ }, "XF86AudioPlay", function () awful.util.spawn("mpc toggle", false) end),
@@ -345,7 +345,7 @@ clientbuttons = gears.table.join(
         c:emit_signal("request::activate", "mouse_click", {raise = true})
         awful.mouse.client.move(c)
     end),
-    awful.button({ modkey, "Control" }, 1, function (c)
+    awful.button({ modkey }, 3, function (c)
         c:emit_signal("request::activate", "mouse_click", {raise = true})
        awful.mouse.client.resize(c)
     end)

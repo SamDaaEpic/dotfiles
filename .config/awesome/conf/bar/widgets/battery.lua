@@ -163,9 +163,9 @@ end)
 
 
         awful.spawn.easy_async_with_shell(
-            [[ upower -i $(upower -e | grep BAT) | grep "percentage" ]],
+            [[ sh -c "upower -i $(upower -e | grep BAT) | grep state | awk '{print \$2}'" ]],
             function(stdout)
-	if stdout:match("100") then
+	if stdout:match("fully-charged") then
 	naughty.notify{	title = "Your Battery Is Fully Charged"	}
 	end
 	    end)
