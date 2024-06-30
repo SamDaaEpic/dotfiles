@@ -1,4 +1,10 @@
 # Sets color variable such as $fg, $bg, $color and $reset_color
+
+HISTFILE=~/.histfile
+HISTSIZE=1000
+SAVEHIST=1000
+setopt appendhistory
+
 autoload -U colors && colors
 
 # Expand variables and commands in PROMPT variables
@@ -103,5 +109,9 @@ ZSH_THEME_GIT_PROMPT_SUFFIX=") %{$reset_color%}"
 
 ZSH_THEME_RUBY_PROMPT_PREFIX="%{$fg[red]%}‹"
 ZSH_THEME_RUBY_PROMPT_SUFFIX="›%{$reset_color%}"
+
+source $HOME/.zsh/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+source $HOME/.zsh/fast-syntax-highlighting/fast-syntax-highlighting.plugin.zsh
+source $HOME/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
 
 pfetch
