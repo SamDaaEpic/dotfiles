@@ -1,0 +1,167 @@
+// -*- mode: jsonc -*-
+//-----------------------------------------------------------------------------------
+//                                                                           
+// 	,-----.                         
+//	|  |) /_  ,--,--.,--.--. ,---.  
+// 	|  .-.  \' ,-.  ||  .--'(  .-'  
+// 	|  '--' /\ '-'  ||  |   .-'  `) 
+// 	`------'  `--`--'`--'   `----'  
+//                      
+//             
+//      , _ ,        RESUME: Waybar config to my main PC
+//     ( o o )              
+//    /'` ' `'\
+//    |'''''''|      AUTHOR:  Andr3xDev
+//    |\\'''//|      URL:  https://github.com/Andr3xDev/Dotfiles
+//       """                                              
+//------------------------------------------------------------------------------------
+
+
+{
+
+
+    //--------------------------------------------------------------------------------
+    //    General
+    //--------------------------------------------------------------------------------
+
+    "layer": "top", 
+    "position": "top",
+    "height": 36,
+    "spacing": 0,
+    "margin-top": 7,
+    "margin-left": 50,
+    "margin-bottom": 1,
+    "margin-right": 50,
+
+
+
+    //--------------------------------------------------------------------------------
+    //    Left Modules
+    //--------------------------------------------------------------------------------
+
+    "modules-left": [
+	"clock",
+        "hyprland/workspaces"
+    ],
+
+
+
+    //--------------------------------------------------------------------------------
+    //    Center Modules
+    //--------------------------------------------------------------------------------
+
+    "modules-center": [
+    ],
+
+
+
+    //--------------------------------------------------------------------------------
+    //    Right Modules
+    //--------------------------------------------------------------------------------
+
+    "modules-right": [
+	"custom/spotify",
+        "wireplumber",
+        "bluetooth",
+        "network",
+        "cpu",
+        "memory",
+        "battery"
+    ],
+     
+    
+
+    //--------------------------------------------------------------------------------
+    //    Left Configuration
+    //--------------------------------------------------------------------------------
+     
+    "hyprland/workspaces": {
+        "disable-scroll": true,
+	    "disable-select-unfocused": true,
+        "all-outputs": true,
+        "warp-on-scroll": false,
+        "format": "{icon}",
+        "format-icons": {
+            "1": "計",     //calculate :3
+            "2": "二",
+            "3": "三", 
+            "4": "四", 
+            "5": "五",
+	        "6": "六",
+	        "7": "七",
+	        "8": "八",
+	        "9": "九"
+        }
+    },
+
+    "clock": {
+        "format": "{:%d-%m-%Y  | %I:%M}",
+	    "tooltip-format": "{:%A}",
+	    "on-click": "galendae"
+    },
+
+
+
+    //--------------------------------------------------------------------------------
+    //    Right Configuration
+    //--------------------------------------------------------------------------------
+
+    "bluetooth": {
+	    "format": "󰂲",
+        "format-on": "",
+	    "format-connected": " {num_connections}",
+	    "tooltip-format": "{status}",
+	    "tooltip-format-connected": "{device_alias}",
+	    "on-click": "kitty --class bluetui -e bluetui",
+	    "interval": 1
+    },
+        
+    "memory": {
+        "interval": 1,
+        "format": "{}% "
+    },
+        
+    "cpu": {
+        "format": "{usage}% ",
+        "interval": 1
+    },
+
+    "battery": {
+        "states": {
+            "good": 90,
+            "warning": 15,
+            "critical": 5
+        },
+        "format": "{capacity}  {icon}",
+        "format-full": "{capacity} {icon}",
+        "format-charging": "{capacity}  ",
+        "format-plugged": "{capacity}  ",
+        "format-icons": ["", "", "", "", ""]
+    },
+
+    "network": {
+        "format-wifi": "",
+        "format-disconnected": "⚠",
+        "on-click": "kitty --class nmtui -e nmtui",
+	    "tooltip-format": "{essid}"
+    },
+
+    "wireplumber": {
+        "format": "{volume} {icon}",
+        "format-muted": "  ", 
+        "format-icons": {
+            "default": [" ", " ", " "]
+        },
+        "on-click-right": "pavucontrol",
+	    "on-click": "pactl set-sink-mute @DEFAULT_SINK@ toggle"
+    },
+
+    "custom/spotify": {  
+	"exec": "/sbin/python3 ~/.config/waybar/mediaplayer.py --player spotify",  
+	"format": " {}   ",  
+	"return-type": "json",  
+	"on-click": "playerctl --player=spotify play-pause",  
+	"on-double-click": "playerctl --player=spotify next",  
+	"on-double-click-right": "playerctl --player=spotify previous"  
+    }
+}
