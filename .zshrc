@@ -1,4 +1,8 @@
 # Sets color variable such as $fg, $bg, $color and $reset_color
+#export TERM=xterm
+bindkey "^[[3~" delete-char
+bindkey "^[[1;5C" forward-word
+bindkey "^[[1;5D" backward-word
 
 HISTFILE=~/.histfile
 HISTSIZE=1000
@@ -109,7 +113,7 @@ ZSH_THEME_GIT_PROMPT_SUFFIX=") %{$reset_color%}"
 
 ZSH_THEME_RUBY_PROMPT_PREFIX="%{$fg[red]%}‹"
 ZSH_THEME_RUBY_PROMPT_SUFFIX="›%{$reset_color%}"
-
+alias ssh='kitten ssh'
 source $HOME/.zsh/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 source $HOME/.zsh/fast-syntax-highlighting/fast-syntax-highlighting.plugin.zsh
 source $HOME/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
