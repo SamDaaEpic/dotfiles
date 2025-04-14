@@ -1,0 +1,8 @@
+2025/04/14-10:14:19.157 29a5d Reusing MANIFEST /home/SamDaaEpic/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2025/04/14-10:14:19.160 29a5d Recovering log #89
+2025/04/14-10:14:19.170 29a5d Level-0 table #91: started
+2025/04/14-10:14:19.192 29a5d Level-0 table #91: 3569492 bytes OK
+2025/04/14-10:14:19.193 29a5d Recovering log #91
+2025/04/14-10:14:19.193 29a5d Reusing old log /home/SamDaaEpic/.config/discord/Local Storage/leveldb/000091.log 
+2025/04/14-10:14:19.195 29a5d Delete type=2 #92
+2025/04/14-10:14:19.195 29a5d Delete type=0 #89

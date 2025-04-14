@@ -1,0 +1,15 @@
+2025/04/07-20:22:41.946 606 Reusing MANIFEST /home/SamDaaEpic/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_x.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/04/07-20:22:41.946 606 Recovering log #4
+2025/04/07-20:22:41.973 606 Reusing old log /home/SamDaaEpic/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_x.com_0.indexeddb.leveldb/000004.log 
+2025/04/07-20:28:08.331 607 Level-0 table #8: started
+2025/04/07-20:28:08.333 607 Level-0 table #8: 121029 bytes OK
+2025/04/07-20:28:08.334 607 Delete type=0 #4
+2025/04/07-20:28:08.334 607 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2025/04/07-20:28:08.334 607 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01,\x00u\x00s\x00e\x00r\x00:\x001\x005\x000\x004\x004\x002\x007\x009\x000\x009\x008\x005\x005\x001\x008\x002\x008\x005\x001\x00:\x00r\x00w\x00e\x00b\x00.\x00t\x00y\x00p\x00e\x00a\x00h\x00e\x00a\x00d\x00U\x00s\x00e\x00r\x00s' @ 1261 : 1
+2025/04/07-20:28:08.334 607 Compacting 1@1 + 1@2 files
+2025/04/07-20:28:08.336 607 Generated table #9@1: 65 keys, 53782 bytes
+2025/04/07-20:28:08.336 607 Compacted 1@1 + 1@2 files => 53782 bytes
+2025/04/07-20:28:08.338 607 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/04/07-20:28:08.338 607 Delete type=2 #5
+2025/04/07-20:28:08.338 607 Delete type=2 #8
+2025/04/07-20:28:08.338 607 Manual compaction at level-1 from '\x00\x01\x01\x02\x01,\x00u\x00s\x00e\x00r\x00:\x001\x005\x000\x004\x004\x002\x007\x009\x000\x009\x008\x005\x005\x001\x008\x002\x008\x005\x001\x00:\x00r\x00w\x00e\x00b\x00.\x00t\x00y\x00p\x00e\x00a\x00h\x00e\x00a\x00d\x00U\x00s\x00e\x00r\x00s' @ 1261 : 1 .. (end); will stop at (end)

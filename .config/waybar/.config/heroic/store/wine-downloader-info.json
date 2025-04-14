@@ -1,0 +1,16 @@
+{
+	"wine-releases": [
+		{
+			"version": "Wine-GE-Proton8-26",
+			"date": "2024-02-04",
+			"downsize": 233577252,
+			"disksize": 974837157,
+			"download": "https://github.com/GloriousEggroll/wine-ge-custom/releases/download/GE-Proton8-26/wine-lutris-GE-Proton8-26-x86_64.tar.xz",
+			"checksum": "https://github.com/GloriousEggroll/wine-ge-custom/releases/download/GE-Proton8-26/wine-lutris-GE-Proton8-26-x86_64.sha512sum",
+			"isInstalled": true,
+			"hasUpdate": false,
+			"type": "Wine-GE",
+			"installDir": "/home/SamDaaEpic/.config/heroic/tools/wine/Wine-GE-Proton8-26"
+		}
+	]
+}

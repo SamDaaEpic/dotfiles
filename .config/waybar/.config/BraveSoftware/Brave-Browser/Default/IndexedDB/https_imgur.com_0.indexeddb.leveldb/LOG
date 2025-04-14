@@ -1,0 +1,6 @@
+2025/04/05-15:06:54.842 31a9a Creating DB /home/SamDaaEpic/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_imgur.com_0.indexeddb.leveldb since it was missing.
+2025/04/05-15:06:54.844 31a9a Reusing MANIFEST /home/SamDaaEpic/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_imgur.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/04/05-15:06:54.869 31aa4 Level-0 table #5: started
+2025/04/05-15:06:54.870 31aa4 Level-0 table #5: 760 bytes OK
+2025/04/05-15:06:54.872 31aa4 Delete type=0 #3
+2025/04/05-15:06:54.872 31aa4 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

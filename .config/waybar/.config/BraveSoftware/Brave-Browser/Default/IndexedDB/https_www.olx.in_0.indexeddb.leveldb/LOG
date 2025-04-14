@@ -1,0 +1,7 @@
+2025/04/07-18:47:10.143 606 Reusing MANIFEST /home/SamDaaEpic/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.olx.in_0.indexeddb.leveldb/MANIFEST-000001
+2025/04/07-18:47:10.143 606 Recovering log #26
+2025/04/07-18:47:10.144 606 Reusing old log /home/SamDaaEpic/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.olx.in_0.indexeddb.leveldb/000026.log 
+2025/04/07-18:47:10.152 606 Level-0 table #31: started
+2025/04/07-18:47:10.157 606 Level-0 table #31: 32246 bytes OK
+2025/04/07-18:47:10.159 606 Delete type=0 #26
+2025/04/07-18:47:10.160 606 Manual compaction at level-0 from '\x00\x0a\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0b\x00\x00\x00' @ 0 : 0; will stop at (end)

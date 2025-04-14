@@ -1,0 +1,308 @@
+{
+  "data": {
+    "cx_bottles": [
+      {
+        "base_url": null,
+        "compatible_apps": [],
+        "cx_system": "darwin",
+        "cx_version": "21.1",
+        "cx_versions": [
+          "21.1"
+        ],
+        "description": "Win7 x64, DXVK",
+        "is_default": true,
+        "manifest": "https://legendary.hexadecimalnightma.re/bottles/Win7x64_DXVK3.manifest",
+        "name": "Legendary",
+        "version": 3
+      },
+      {
+        "base_url": null,
+        "compatible_apps": [
+          "Sugar"
+        ],
+        "cx_system": "darwin",
+        "cx_version": "21.1",
+        "cx_versions": [
+          "21.1"
+        ],
+        "description": "Win7 x64, prepared for Rocket League",
+        "is_default": false,
+        "manifest": "https://legendary.hexadecimalnightma.re/bottles/Win7x64_RocketLeague2.manifest",
+        "name": "Legendary_RocketLeague",
+        "version": 2
+      },
+      {
+        "base_url": null,
+        "compatible_apps": [],
+        "cx_system": "darwin",
+        "cx_version": "21.1",
+        "cx_versions": [
+          "21.1"
+        ],
+        "description": "Win7 x64, DXVK (alternative CDN test)",
+        "is_default": false,
+        "manifest": "https://bottles.legendary.gl/Win7x64_DXVK2.manifest",
+        "name": "Legendary",
+        "version": 2
+      },
+      {
+        "base_url": null,
+        "compatible_apps": [
+          "Sugar"
+        ],
+        "cx_system": "darwin",
+        "cx_version": "21.1",
+        "cx_versions": [
+          "21.1"
+        ],
+        "description": "Win7 x64, prepared for Rocket League (alternative CDN test)",
+        "is_default": false,
+        "manifest": "https://bottles.legendary.gl/Win7x64_RocketLeague2.manifest",
+        "name": "Legendary_RocketLeague",
+        "version": 2
+      }
+    ],
+    "egl_config": {
+      "client_id": "34a02cf8f4414e29b15921876da36f9a",
+      "client_secret": "daafbccc737745039dffe53d94fc76cf",
+      "data_keys": [
+        "A09C853C9E95409BB94D707EADEFA52E"
+      ],
+      "label": "Live-HighlandWarrior",
+      "version": "15.18.2-29993784+++Portal+Release-Live"
+    },
+    "game_overrides": {
+      "executable_override": {
+        "3be3c4d681bc46b3b8b26c5df3ae0a18": {
+          "darwin": "Binaries/Win64/XCom2.exe",
+          "linux": "Binaries/Win64/XCom2.exe",
+          "win32": "Binaries/Win64/XCom2.exe"
+        },
+        "49550aa9fcd74552ae07c4e9f2c262fe": {
+          "darwin": "MidnightSuns/Binaries/Win64/MidnightSuns-Win64-Shipping.exe",
+          "linux": "MidnightSuns/Binaries/Win64/MidnightSuns-Win64-Shipping.exe",
+          "win32": "MidnightSuns/Binaries/Win64/MidnightSuns-Win64-Shipping.exe"
+        },
+        "9e296d276ad447108f12c654c3341d59": {
+          "darwin": "Binaries/Win32/TinyTina.exe",
+          "linux": "Binaries/Win32/TinyTina.exe"
+        },
+        "a1e2ce30defe4a9187ebc14fc9d2bd8b": {
+          "darwin": "English/KSP_x64.exe",
+          "linux": "English/KSP_x64.exe",
+          "win32": "English/KSP_x64.exe"
+        },
+        "b22ce34b4ce0408c97a888554447479b": {
+          "darwin": "Build/FinalEpic/Bioshock2HD.exe",
+          "linux": "Build/FinalEpic/Bioshock2HD.exe",
+          "win32": "Build/FinalEpic/Bioshock2HD.exe"
+        },
+        "bc2c95c6ff564a16b26644f1d3ac3c55": {
+          "darwin": "Build/FinalEpic/BioshockHD.exe",
+          "linux": "Build/FinalEpic/BioshockHD.exe",
+          "win32": "Build/FinalEpic/BioshockHD.exe"
+        },
+        "dodo": {
+          "darwin": "Binaries/Win32/Borderlands2.exe",
+          "linux": "Binaries/Win32/Borderlands2.exe"
+        },
+        "f9d6f0530ea140909f8e8a997a7532d7": {
+          "darwin": "Binaries/Win32/ShippingPC-XGame.exe",
+          "linux": "Binaries/Win32/ShippingPC-XGame.exe",
+          "win32": "Binaries/Win32/ShippingPC-XGame.exe"
+        },
+        "kinglet": {
+          "darwin": "Base/Binaries/Win64EOS/CivilizationVI.exe",
+          "linux": "Base/Binaries/Win64EOS/CivilizationVI.exe",
+          "win32": "LaunchPad/LaunchPad.exe"
+        },
+        "turkey": {
+          "darwin": "Binaries/Win32/BorderlandsPreSequel.exe",
+          "linux": "Binaries/Win32/BorderlandsPreSequel.exe"
+        }
+      },
+      "reorder_optimization": {
+        "63a665088eb1480298f1e57943b225d8": {},
+        "bcc75c246fe04e45b0c1f1c3fd52503a": [
+          "1.0.2"
+        ],
+        "honeycreeper": {},
+        "snapdragon": {},
+        "wombat": {}
+      },
+      "sdl_config": {
+        "4fa3d8d9b2cb4714a19a38d1a598be8f": 1,
+        "562d4a2c1b3147b089a7c453e3ddbcbe": 1,
+        "5be88c20a859439baeb1667d06a3aed2": 1,
+        "5daeb974a22a435988892319b3a4f476": 1,
+        "7dcfb9cd9d134728b2646466c34c7b3b": 1,
+        "Fortnite": 7,
+        "Fortnite_Mac": 1,
+        "Ginger": 1,
+        "Lavender": 1,
+        "Suphalak": 1,
+        "UE_4.23": 1,
+        "UE_4.23_Mac": 1,
+        "UE_4.24": 1,
+        "UE_4.24_Mac": 1,
+        "UE_4.25": 1,
+        "UE_4.25_Mac": 1,
+        "UE_4.26": 1,
+        "UE_4.26Chaos": 1,
+        "UE_4.26Chaos_Mac": 1,
+        "UE_4.26_Mac": 1,
+        "UE_4.27": 1,
+        "UE_4.27_Mac": 1,
+        "UE_5.0": 1,
+        "UE_5.0EA": 1,
+        "UE_5.0EA_Mac": 1,
+        "UE_5.0_Mac": 1,
+        "UE_5.1": 1,
+        "UE_5.1_Mac": 1,
+        "UE_5.2": 1,
+        "UE_5.2_Mac": 1,
+        "UE_5.3": 1,
+        "UE_5.3_Mac": 1,
+        "a1e2ce30defe4a9187ebc14fc9d2bd8b": 1,
+        "adeae8bbfc94427db57c7dfecce3f1d4": 1,
+        "b290229eb58045cbab9501640f3278f3": 1,
+        "c8dae1ab0570475a8b38a9041e614840": 1,
+        "ee9a44b4530942499ef1c8c390731fce": 1
+      }
+    },
+    "game_wiki": {
+      "0a2d9f6403244d12969e11da6713137b": {
+        "linux": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/wiki/Fall-Guys"
+      },
+      "398965b67f314d31b0683b8ea11c93a4": {
+        "darwin": "https://github.com/derrod/legendary/wiki/Warframe-macOS-(Apple-Silicon)"
+      },
+      "3be3c4d681bc46b3b8b26c5df3ae0a18": {
+        "darwin": "https://github.com/derrod/legendary/wiki/XCOM2",
+        "linux": "https://github.com/derrod/legendary/wiki/XCOM2",
+        "win32": "https://github.com/derrod/legendary/wiki/XCOM2"
+      },
+      "595e35287b824902a2f7107139603732": {
+        "linux": "https://github.com/CommandMC/EpicLinux/wiki/Void-Bastards"
+      },
+      "5daeb974a22a435988892319b3a4f476": {
+        "darwin": "https://github.com/derrod/legendary/wiki/Fallout-New-Vegas",
+        "linux": "https://github.com/derrod/legendary/wiki/Fallout-New-Vegas",
+        "win32": "https://github.com/derrod/legendary/wiki/Fallout-New-Vegas"
+      },
+      "963137e4c29d4c79a81323b8fab03a40": {
+        "linux": "https://github.com/CommandMC/EpicLinux/wiki/Among-Us"
+      },
+      "9c203b6ed35846e8a4a9ff1e314f6593": {
+        "linux": "https://github.com/CommandMC/EpicLinux/wiki/Elite-Dangerous"
+      },
+      "9d2d0eb64d5c44529cece33fe2a46482": {
+        "darwin": "https://github.com/derrod/legendary/wiki/GTA-V-(CrossOver-macOS)",
+        "linux": "https://github.com/CommandMC/EpicLinux/wiki/GTA-V"
+      },
+      "9e296d276ad447108f12c654c3341d59": {
+        "darwin": "https://github.com/derrod/legendary/wiki/Borderlands-2,-Pre-Sequel,-One-Shot-(macOS)",
+        "linux": "https://github.com/CommandMC/EpicLinux/wiki/Tiny-Tina's-Assault-on-Dragon-Keep:-A-Wonderlands-One-shot-Adventure"
+      },
+      "Auk": {
+        "linux": "https://github.com/CommandMC/EpicLinux/wiki/QUBE-2"
+      },
+      "Blobfish": {
+        "linux": "https://github.com/CommandMC/EpicLinux/wiki/Into-the-Breach"
+      },
+      "Buffalo": {
+        "linux": "https://github.com/CommandMC/EpicLinux/wiki/Super-Meat-Boy"
+      },
+      "Dodo": {
+        "darwin": "https://github.com/derrod/legendary/wiki/Borderlands-2,-Pre-Sequel,-One-Shot-(macOS)",
+        "linux": "https://github.com/CommandMC/EpicLinux/wiki/Borderlands-2"
+      },
+      "Dory": {
+        "linux": "https://github.com/CommandMC/EpicLinux/wiki/SUPERHOT"
+      },
+      "Eagle": {
+        "linux": "https://github.com/CommandMC/EpicLinux/wiki/Moonlighter"
+      },
+      "Eider": {
+        "linux": "https://github.com/derrod/legendary/wiki/Hitman-3-Guide"
+      },
+      "Flagfin": {
+        "darwin": "https://github.com/derrod/legendary/wiki/Tacoma-(macOS)"
+      },
+      "Jaguar": {
+        "linux": "https://github.com/CommandMC/EpicLinux/wiki/Subnautica"
+      },
+      "Kinglet": {
+        "darwin": "https://github.com/derrod/legendary/wiki/Civilization-VI",
+        "linux": "https://github.com/derrod/legendary/wiki/Civilization-VI",
+        "win32": "https://github.com/derrod/legendary/wiki/Civilization-VI"
+      },
+      "Lyrebird": {
+        "linux": "https://github.com/CommandMC/EpicLinux/wiki/HOB"
+      },
+      "Petrel": {
+        "linux": "https://github.com/CommandMC/EpicLinux/wiki/Minit"
+      },
+      "Potoo": {
+        "linux": "https://github.com/CommandMC/EpicLinux/wiki/Overcooked-2"
+      },
+      "Quail": {
+        "linux": "https://github.com/CommandMC/EpicLinux/wiki/20XX"
+      },
+      "Salt": {
+        "linux": "https://github.com/CommandMC/EpicLinux/wiki/Celeste"
+      },
+      "Sugar": {
+        "linux": "https://github.com/CommandMC/EpicLinux/wiki/Rocket-League:-BakkesMod"
+      },
+      "Turkey": {
+        "darwin": "https://github.com/derrod/legendary/wiki/Borderlands-2,-Pre-Sequel,-One-Shot-(macOS)",
+        "linux": "https://github.com/CommandMC/EpicLinux/wiki/Borderlands:-The-Pre-Sequel"
+      },
+      "ab277c0995e945d2b2c50c46883627f1": {
+        "linux": "https://github.com/CommandMC/EpicLinux/wiki/PC-Building-Simulator"
+      },
+      "b22ce34b4ce0408c97a888554447479b": {
+        "darwin": "https://github.com/derrod/legendary/wiki/Bioshock-2-Remastered",
+        "linux": "https://github.com/derrod/legendary/wiki/Bioshock-2-Remastered",
+        "win32": "https://github.com/derrod/legendary/wiki/Bioshock-2-Remastered"
+      },
+      "bc2c95c6ff564a16b26644f1d3ac3c55": {
+        "darwin": "https://github.com/derrod/legendary/wiki/Bioshock-1-Remastered",
+        "linux": "https://github.com/derrod/legendary/wiki/Bioshock-1-Remastered",
+        "win32": "https://github.com/derrod/legendary/wiki/Bioshock-1-Remastered"
+      },
+      "da0103e959e54d139d0c109ded3b3672": {
+        "linux": "https://github.com/CommandMC/EpicLinux/wiki/Europa-Universalis-4"
+      },
+      "dd75b5c168d546cc869582c0389f0a1d": {
+        "linux": "https://github.com/CommandMC/EpicLinux/wiki/Train-Sim-World-2"
+      },
+      "ed93b18355a84230938c705121c63661": {
+        "linux": "https://github.com/CommandMC/EpicLinux/wiki/The-Long-Dark"
+      }
+    },
+    "legendary_config": {
+      "webview_killswitch": false
+    },
+    "release_info": {
+      "critical": true,
+      "download_hashes": {
+        "linux": "3bb00928b0d7e7f9a94ae8fedf272d026d162cea9446738c442012a08695cb31",
+        "macos": "875e5977697d1fe1bc49ae5fe4a38d904bf62b01eead42f21538c68dc5e0409c",
+        "windows": "01ea22ea51749f46a0019657f64fc0d34429fb7cbf9b590c0848c0e0bd9c1f07"
+      },
+      "downloads": {
+        "linux": "https://legendary.gl/release/download/0.20.34/legendary",
+        "macos": "https://legendary.gl/release/download/0.20.34/legendary_macOS.zip",
+        "windows": "https://legendary.gl/release/download/0.20.34/legendary.exe"
+      },
+      "gh_url": "https://legendary.gl/release/0.20.34",
+      "name": "Direct Intervention",
+      "summary": " [!] Fixed webview based login\n [*] Fixed a number of bugs and performance issues\n\nSee full changelog for additional details.",
+      "version": "0.20.34"
+    },
+    "runtimes": []
+  },
+  "last_update": 1742191877.1454623
+}

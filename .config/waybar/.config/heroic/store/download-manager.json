@@ -1,0 +1,52 @@
+{
+	"finished": [
+		{
+			"params": {
+				"appName": "9d2d0eb64d5c44529cece33fe2a46482",
+				"path": "/home/SamDaaEpic/Games/Heroic",
+				"installDlcs": [],
+				"sdlList": [],
+				"installLanguage": "",
+				"runner": "legendary",
+				"platformToInstall": "Windows",
+				"gameInfo": {
+					"app_name": "9d2d0eb64d5c44529cece33fe2a46482",
+					"art_cover": "https://cdn1.epicgames.com/0584d2013f0149a791e7b9bad0eec102/item/GTAV_EGS_Artwork_2560x1440_Landscaped Store-2560x1440-79155f950f32c9790073feaccae570fb.jpg",
+					"art_square": "https://cdn1.epicgames.com/0584d2013f0149a791e7b9bad0eec102/item/GTAV_EGS_Artwork_1200x1600_Portrait Store Banner-1200x1600-382243057711adf80322ed2aeea42191.jpg",
+					"cloud_save_enabled": false,
+					"developer": "Rockstar Games",
+					"extra": {
+						"about": {
+							"description": "Grand Theft Auto V",
+							"shortDescription": ""
+						},
+						"reqs": [],
+						"storeUrl": "https://www.epicgames.com/store/product/grand-theft-auto-v"
+					},
+					"folder_name": "GTAV",
+					"install": {
+						"install_size": "0",
+						"is_dlc": false
+					},
+					"is_installed": false,
+					"namespace": "0584d2013f0149a791e7b9bad0eec102",
+					"is_mac_native": false,
+					"save_folder": "",
+					"title": "Grand Theft Auto V",
+					"canRunOffline": false,
+					"isEAManaged": false,
+					"is_linux_native": false,
+					"runner": "legendary",
+					"store_url": "https://www.epicgames.com/store/product/grand-theft-auto-v"
+				},
+				"size": "112.28 GiB"
+			},
+			"type": "install",
+			"addToQueueTime": 1742188661699,
+			"endTime": 1742191206947,
+			"startTime": 1742188661702,
+			"status": "done"
+		}
+	],
+	"queue": []
+}

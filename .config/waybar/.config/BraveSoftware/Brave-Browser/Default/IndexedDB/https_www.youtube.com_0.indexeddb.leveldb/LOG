@@ -1,0 +1,12 @@
+2025/04/14-11:12:31.313 28fdf Reusing MANIFEST /home/SamDaaEpic/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/04/14-11:12:31.314 28fdf Recovering log #1206
+2025/04/14-11:12:31.318 28fdf Reusing old log /home/SamDaaEpic/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/001206.log 
+2025/04/14-11:12:31.429 28fe0 Level-0 table #1211: started
+2025/04/14-11:12:31.435 28fe0 Level-0 table #1211: 1054735 bytes OK
+2025/04/14-11:12:31.437 28fe0 Delete type=0 #1206
+2025/04/14-11:12:33.838 28fe0 Compacting 1@1 + 1@2 files
+2025/04/14-11:12:33.843 28fe0 Generated table #1212@1: 740 keys, 91905 bytes
+2025/04/14-11:12:33.843 28fe0 Compacted 1@1 + 1@2 files => 91905 bytes
+2025/04/14-11:12:33.845 28fe0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/04/14-11:12:33.845 28fe0 Delete type=2 #1211
+2025/04/14-11:12:33.845 28fe0 Delete type=2 #1208

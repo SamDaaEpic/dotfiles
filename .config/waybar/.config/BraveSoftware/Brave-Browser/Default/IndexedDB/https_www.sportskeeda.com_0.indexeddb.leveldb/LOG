@@ -1,0 +1,6 @@
+2025/04/08-18:25:18.402 abf Creating DB /home/SamDaaEpic/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.sportskeeda.com_0.indexeddb.leveldb since it was missing.
+2025/04/08-18:25:18.407 abf Reusing MANIFEST /home/SamDaaEpic/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.sportskeeda.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/04/08-18:25:18.411 acd Level-0 table #5: started
+2025/04/08-18:25:18.412 acd Level-0 table #5: 674 bytes OK
+2025/04/08-18:25:18.413 acd Delete type=0 #3
+2025/04/08-18:25:18.413 abf Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

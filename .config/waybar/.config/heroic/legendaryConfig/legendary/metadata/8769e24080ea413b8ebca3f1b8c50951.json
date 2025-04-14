@@ -1,0 +1,108 @@
+{
+  "app_name": "8769e24080ea413b8ebca3f1b8c50951",
+  "app_title": "Grand Theft Auto V Enhanced",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "8769e24080ea413b8ebca3f1b8c50951",
+      "asset_id": "8769e24080ea413b8ebca3f1b8c50951",
+      "build_version": "1.0.812.6",
+      "catalog_item_id": "122e5e90b7b8424d930be8bc1a7e05fb",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "b0cd075465c44f87be3b505ac04a2e46",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567Kfc7JARBTSaEJKIDNn9Sk58F",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2024-06-17T21:27:47.128Z",
+    "customAttributes": {
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "GTAVEnhanced"
+      },
+      "MainWindowProcessName": {
+        "type": "STRING",
+        "value": "GTA5_Enhanced.exe"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "b0cd075465c44f87be3b505ac04a2e46"
+      },
+      "ProcessNames": {
+        "type": "STRING",
+        "value": "PlayGTAV.exe"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      }
+    },
+    "description": "Experience entertainment blockbusters Grand Theft Auto V and Grand Theft Auto Online \u2014 now upgraded for a new generation with stunning visuals, faster loading, 3D audio, and more, plus exclusive content for GTA Online players.",
+    "developer": "Rockstar Games",
+    "developerId": "o-dhz7kpvrvqngzdpnx5vn3jrljj53ca",
+    "endOfSupport": false,
+    "entitlementName": "122e5e90b7b8424d930be8bc1a7e05fb",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "122e5e90b7b8424d930be8bc1a7e05fb",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "906d8ae76a91aafc60b1a54c23fab496",
+        "size": 1005475,
+        "type": "DieselGameBox",
+        "uploadedDate": "2025-03-03T19:40:29.145Z",
+        "url": "https://cdn1.epicgames.com/item/b0cd075465c44f87be3b505ac04a2e46/EGS_GrandTheftAutoVEnhanced_RockstarNorth_S1_2560x1440-906d8ae76a91aafc60b1a54c23fab496",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "a5528b33df876e64f5dee728830c80a3",
+        "size": 1315116,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2025-03-03T19:40:49.369Z",
+        "url": "https://cdn1.epicgames.com/item/b0cd075465c44f87be3b505ac04a2e46/GTAV_CHARM_Epic_FirstParty_PortraitFOB_1200x1600_R02_1200x1600-a5528b33df876e64f5dee728830c80a3",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-03-04T11:50:51.618Z",
+    "mainGameItemList": [],
+    "namespace": "b0cd075465c44f87be3b505ac04a2e46",
+    "releaseInfo": [
+      {
+        "appId": "8769e24080ea413b8ebca3f1b8c50951",
+        "id": "e59960e6545f4a598c96f4fc6a88c803",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Grand Theft Auto V Enhanced",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

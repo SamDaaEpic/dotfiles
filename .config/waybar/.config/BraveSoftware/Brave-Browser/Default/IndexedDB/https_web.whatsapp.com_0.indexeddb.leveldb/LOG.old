@@ -1,0 +1,46 @@
+2025/04/14-10:50:37.722 28fdf Reusing MANIFEST /home/SamDaaEpic/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/04/14-10:50:37.724 28fdf Recovering log #2674
+2025/04/14-10:50:37.745 28fdf Reusing old log /home/SamDaaEpic/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/002674.log 
+2025/04/14-10:50:38.228 28fe1 Level-0 table #2692: started
+2025/04/14-10:50:38.240 28fe1 Level-0 table #2692: 459191 bytes OK
+2025/04/14-10:50:38.241 28fe1 Delete type=0 #2674
+2025/04/14-10:50:38.242 28fdf Manual compaction at level-0 from ' \x0e\x01\x00\x00\x00' @ 72057594037927935 : 1 .. ' \x0f\x01\x00\x00\x00' @ 0 : 0; will stop at ' \x0e\x01\x00\x00\x05' @ 7433116 : 1
+2025/04/14-10:50:38.242 28fdf Compacting 1@0 + 0@1 files
+2025/04/14-10:50:38.255 28fdf Generated table #2693@0: 16760 keys, 250629 bytes
+2025/04/14-10:50:38.257 28fdf Generated table #2694@0: 213 keys, 4744 bytes
+2025/04/14-10:50:38.257 28fdf Compacted 1@0 + 0@1 files => 255373 bytes
+2025/04/14-10:50:38.258 28fdf compacted to: files[ 0 2 12 0 0 0 0 ]
+2025/04/14-10:50:38.258 28fdf Delete type=2 #2692
+2025/04/14-10:50:38.258 28fdf Manual compaction at level-0 from ' \x0e\x01\x00\x00\x05' @ 7433116 : 1 .. ' \x0f\x01\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/04/14-10:50:39.825 28fe0 Compacting 1@1 + 10@2 files
+2025/04/14-10:50:39.878 28fe0 Generated table #2695@1: 41093 keys, 2266893 bytes
+2025/04/14-10:50:39.894 28fe0 Generated table #2696@1: 3203 keys, 2168491 bytes
+2025/04/14-10:50:39.910 28fe0 Generated table #2697@1: 3538 keys, 2165463 bytes
+2025/04/14-10:50:39.926 28fe0 Generated table #2698@1: 3226 keys, 2155581 bytes
+2025/04/14-10:50:39.943 28fe0 Generated table #2699@1: 3269 keys, 2157439 bytes
+2025/04/14-10:50:39.980 28fe0 Generated table #2700@1: 21815 keys, 2203957 bytes
+2025/04/14-10:50:40.043 28fe0 Generated table #2701@1: 26721 keys, 2265803 bytes
+2025/04/14-10:50:40.086 28fe0 Generated table #2702@1: 26014 keys, 2236460 bytes
+2025/04/14-10:50:40.110 28fe0 Generated table #2703@1: 28804 keys, 2160186 bytes
+2025/04/14-10:50:40.166 28fe0 Generated table #2704@1: 106605 keys, 2241944 bytes
+2025/04/14-10:50:40.166 28fe0 Compacted 1@1 + 10@2 files => 22022217 bytes
+2025/04/14-10:50:40.171 28fe0 compacted to: files[ 0 1 12 0 0 0 0 ]
+2025/04/14-10:50:40.172 28fe0 Delete type=2 #2685
+2025/04/14-10:50:40.172 28fe0 Delete type=2 #2680
+2025/04/14-10:50:40.172 28fe0 Delete type=2 #2687
+2025/04/14-10:50:40.172 28fe0 Delete type=2 #2686
+2025/04/14-10:50:40.172 28fe0 Delete type=2 #2683
+2025/04/14-10:50:40.172 28fe0 Delete type=2 #2681
+2025/04/14-10:50:40.172 28fe0 Delete type=2 #2693
+2025/04/14-10:50:40.172 28fe0 Delete type=2 #2679
+2025/04/14-10:50:40.172 28fe0 Delete type=2 #2682
+2025/04/14-10:50:40.172 28fe0 Delete type=2 #2678
+2025/04/14-10:50:40.172 28fe0 Delete type=2 #2684
+2025/04/14-10:50:47.113 28fe0 Compacting 1@1 + 2@2 files
+2025/04/14-10:50:47.186 28fe0 Generated table #2705@1: 104986 keys, 2257102 bytes
+2025/04/14-10:50:47.194 28fe0 Generated table #2706@1: 7719 keys, 184909 bytes
+2025/04/14-10:50:47.195 28fe0 Compacted 1@1 + 2@2 files => 2442011 bytes
+2025/04/14-10:50:47.196 28fe0 compacted to: files[ 0 0 12 0 0 0 0 ]
+2025/04/14-10:50:47.197 28fe0 Delete type=2 #2688
+2025/04/14-10:50:47.197 28fe0 Delete type=2 #2689
+2025/04/14-10:50:47.197 28fe0 Delete type=2 #2694

@@ -1,0 +1,3 @@
+#!/bin/bash
+> "$HOME/.config/awesome/rc.lua"
+echo -e 'require("rcluas.rc-my")' >> "$HOME/.config/awesome/rc.lua"

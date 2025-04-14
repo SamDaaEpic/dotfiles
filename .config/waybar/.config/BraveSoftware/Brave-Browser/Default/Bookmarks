@@ -1,0 +1,58 @@
+{
+   "checksum": "4d00726716aafa30d6284440cf7dba1c",
+   "roots": {
+      "bookmark_bar": {
+         "children": [  ],
+         "date_added": "13387618644599947",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13388052432542054",
+            "date_last_used": "0",
+            "guid": "5bb69571-83b6-452c-9ba6-20bc85e2a86f",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Limiting Battery Charge on a Lenovo Carbon X1 (Shallow Thoughts)",
+            "type": "url",
+            "url": "https://shallowsky.com/blog/linux/laptop/lenovo-charge-limiting.html"
+         }, {
+            "date_added": "13388083165806098",
+            "date_last_used": "0",
+            "guid": "022a8fe0-4e66-4c89-92cf-062a77375484",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "d",
+            "type": "url",
+            "url": "https://www.reddit.com/r/JEENEETards/comments/1bioli9/rahul_dudi_or_sarvesh_dixit_sir_for_physical/"
+         } ],
+         "date_added": "13387618644599949",
+         "date_last_used": "0",
+         "date_modified": "13388083165806098",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13387618644599951",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

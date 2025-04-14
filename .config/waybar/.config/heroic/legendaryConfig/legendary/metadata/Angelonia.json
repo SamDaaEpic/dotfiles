@@ -1,0 +1,221 @@
+{
+  "app_name": "Angelonia",
+  "app_title": "Watch Dogs 2",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Angelonia",
+      "asset_id": "Angelonia",
+      "build_version": "1.0",
+      "catalog_item_id": "a5d920b94c1d41a182db6258dc5eea5b",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "angelonia",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-02-10T16:57:41.596Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Watchdogs2"
+      },
+      "GameID": {
+        "type": "STRING",
+        "value": "2688"
+      },
+      "MainWindowProcessName": {
+        "type": "STRING",
+        "value": "WatchDogs2.exe"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "NeverUpdate": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceID": {
+        "type": "STRING",
+        "value": "angelonia"
+      },
+      "ProcessNames": {
+        "type": "STRING",
+        "value": "WATCH_DOGS2/EAC.exe,WATCH_DOGS2/bin/SplashScreen.exe,WATCH_DOGS2/bin/WatchDogs2.exe"
+      },
+      "RegistryKey": {
+        "type": "STRING",
+        "value": "InstallDir"
+      },
+      "RegistryPath": {
+        "type": "STRING",
+        "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\2688"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "{}"
+      },
+      "ThirdPartyManagedProvider": {
+        "type": "STRING",
+        "value": "UbisoftConnect"
+      },
+      "partnerLinkId": {
+        "type": "STRING",
+        "value": "a6310e1690c04cffac514beb901a8770"
+      },
+      "partnerLinkType": {
+        "type": "STRING",
+        "value": "ubisoft"
+      }
+    },
+    "description": "Watch Dogs 2",
+    "developer": "Ubisoft Entertainment",
+    "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "dlcItemList": [
+      {
+        "categories": [
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2019-09-27T20:30:52.340Z",
+        "customAttributes": {
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "a6310e1690c04cffac514beb901a8770"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "78aff6732bd44238b463026e2fb63803"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "Watch Dogs 2 Season Pass",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "d47cae42d0284b97b72978ddb0bad749",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "d47cae42d0284b97b72978ddb0bad749",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2020-01-28T15:56:14.912Z",
+        "mainGameItem": {
+          "id": "a5d920b94c1d41a182db6258dc5eea5b",
+          "namespace": "angelonia",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "a5d920b94c1d41a182db6258dc5eea5b",
+            "namespace": "angelonia",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "angelonia",
+        "releaseInfo": [
+          {
+            "appId": "AngeloniaSPDummy",
+            "compatibleApps": [],
+            "dateAdded": "2019-09-27T00:00:00.000Z",
+            "id": "1d19f1404b4543d7adb7d6c83b725ed9",
+            "platform": [
+              "Windows"
+            ],
+            "releaseNote": "",
+            "versionTitle": ""
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "Watch Dogs 2 Season Pass",
+        "unsearchable": false
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "a5d920b94c1d41a182db6258dc5eea5b",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "a5d920b94c1d41a182db6258dc5eea5b",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1080,
+        "md5": "d464ec388187b042e0f5b6f1528d1f25",
+        "size": 339780,
+        "type": "DieselGameBox",
+        "uploadedDate": "2024-04-16T14:19:10.450Z",
+        "url": "https://cdn1.epicgames.com/item/angelonia/WD2-STD-Capsule-1920x1080-2a2ed8c8265ab31156be8ab48a93dc212d5c7095_1920x1080-d464ec388187b042e0f5b6f1528d1f25",
+        "width": 1920
+      },
+      {
+        "height": 1600,
+        "md5": "75d21fb44d647ad69967ae1bb0ab0cbc",
+        "size": 821984,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2024-04-16T14:19:07.511Z",
+        "url": "https://cdn1.epicgames.com/item/angelonia/WDA_StorePortrait_1200x1600_1200x1600-75d21fb44d647ad69967ae1bb0ab0cbc_1200x1600-75d21fb44d647ad69967ae1bb0ab0cbc",
+        "width": 1200
+      },
+      {
+        "height": 400,
+        "md5": "48f96ea6ba28c8a08d8bb77c0aaac577",
+        "size": 31464,
+        "type": "Thumbnail",
+        "uploadedDate": "2019-03-15T22:27:13.761Z",
+        "url": "https://cdn1.epicgames.com/angelonia/item/wd2-game-icon-400x400-48f96ea6ba28c8a08d8bb77c0aaac577.jpg",
+        "width": 400
+      }
+    ],
+    "lastModifiedDate": "2024-04-30T20:35:09.713Z",
+    "mainGameItemList": [],
+    "namespace": "angelonia",
+    "releaseInfo": [
+      {
+        "appId": "Angelonia",
+        "compatibleApps": [],
+        "dateAdded": "2019-02-10T00:00:00.000Z",
+        "id": "ed5a0a53fee946e783f642c2f1d9f17b",
+        "platform": [
+          "Windows"
+        ],
+        "releaseNote": "",
+        "versionTitle": ""
+      }
+    ],
+    "selfRefundable": true,
+    "status": "ACTIVE",
+    "title": "Watch Dogs 2",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

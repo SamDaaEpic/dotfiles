@@ -1,0 +1,6 @@
+2025/04/11-15:14:41.001 7dd Creating DB /home/SamDaaEpic/.config/BraveSoftware/Brave-Browser/Default/WebStorage/603/IndexedDB/indexeddb.leveldb since it was missing.
+2025/04/11-15:14:41.009 7dd Reusing MANIFEST /home/SamDaaEpic/.config/BraveSoftware/Brave-Browser/Default/WebStorage/603/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2025/04/11-15:24:51.183 7de Level-0 table #5: started
+2025/04/11-15:24:51.185 7de Level-0 table #5: 7638 bytes OK
+2025/04/11-15:24:51.187 7de Delete type=0 #3
+2025/04/11-15:24:51.187 7de Manual compaction at level-0 from (begin) .. (end); will stop at (end)

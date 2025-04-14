@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 2,
+  "gracePeriod": "12h",
+  "campaigns": [
+    {
+      "version": 1,
+      "advertiserId": "66e3972b-53a2-4978-8395-5081fb0558fb",
+      "campaignId": "945c9fa2-0cb8-482f-8fca-265aa38721fe",
+      "startAt": "2025-04-14T04:00:00.000Z",
+      "endAt": "2025-04-15T03:59:00.000Z",
+      "dailyCap": 20,
+      "priority": 1,
+      "ptr": 1,
+      "metrics": "p3a",
+      "geoTargets": [
+        "US"
+      ],
+      "creativeSets": [
+        {
+          "creativeSetId": "a0fcc59e-b478-455e-a57d-e980852922cb",
+          "perDay": 20,
+          "perMonth": 0,
+          "perWeek": 0,
+          "totalMax": 20,
+          "value": "0.01",
+          "creatives": [
+            {
+              "creativeInstanceId": "bc7f2336-4001-4198-b8ba-a811e87049ca",
+              "targetUrl": "https://turbotax.intuit.com/lp/ppc/3975/?cid=ppc_brave_nb_stan_all_na_NTT_ty24-bu80-sb488",
+              "alt": "Intuit TurboTax - Tax deadline is April 15. File today and check taxes off your list.",
+              "companyName": "TurboTax",
+              "wallpaper": {
+                "type": "image",
+                "relativeUrl": "559b0d3d-3a03-493a-a5e7-e00111831026.jpg",
+                "button": {
+                  "image": {
+                    "relativeUrl": "933ca02f-aacb-49da-8d79-19021ad32db3.png"
+                  }
+                },
+                "focalPoint": {
+                  "x": 1280,
+                  "y": 720
+                }
+              }
+            },
+            {
+              "creativeInstanceId": "16988200-2c2e-4440-9e76-9616bd96707e",
+              "targetUrl": "https://turbotax.intuit.com/lp/ppc/3975/?cid=ppc_brave_nb_stan_all_na_NTT_ty24-bu80-sb488",
+              "alt": "Intuit TurboTax - Tax deadline is April 15. File today and check taxes off your list.",
+              "companyName": "TurboTax",
+              "wallpaper": {
+                "type": "image",
+                "relativeUrl": "9f181688-b932-4f68-b709-787dda655bf6.jpg",
+                "button": {
+                  "image": {
+                    "relativeUrl": "933ca02f-aacb-49da-8d79-19021ad32db3.png"
+                  }
+                },
+                "focalPoint": {
+                  "x": 1280,
+                  "y": 720
+                }
+              }
+            },
+            {
+              "creativeInstanceId": "be4439ec-5f47-48ea-a38a-46d90eeb8ad7",
+              "targetUrl": "https://turbotax.intuit.com/lp/ppc/3975/?cid=ppc_brave_nb_stan_all_na_NTT_ty24-bu80-sb488",
+              "alt": "Intuit TurboTax - Tax deadline is April 15. File today and check taxes off your list.",
+              "companyName": "TurboTax",
+              "wallpaper": {
+                "type": "image",
+                "relativeUrl": "f81393f2-76b1-48ff-b191-ee075be766b4.jpg",
+                "button": {
+                  "image": {
+                    "relativeUrl": "933ca02f-aacb-49da-8d79-19021ad32db3.png"
+                  }
+                },
+                "focalPoint": {
+                  "x": 1280,
+                  "y": 720
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

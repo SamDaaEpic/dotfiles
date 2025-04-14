@@ -1,0 +1,66 @@
+{
+  "Windows": [
+    {
+      "app_name": "9d2d0eb64d5c44529cece33fe2a46482",
+      "asset_id": "9d2d0eb64d5c44529cece33fe2a46482",
+      "build_version": "1.0.3442.0",
+      "catalog_item_id": "6e563a2c0f5f46e3b4e88b5f4ed50cca",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "0584d2013f0149a791e7b9bad0eec102",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Sugar",
+      "asset_id": "Sugar",
+      "build_version": "BC2_Update54+477186",
+      "catalog_item_id": "530145df28a24424923f5828cc9031a1",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Angelonia",
+      "asset_id": "Angelonia",
+      "build_version": "1.0",
+      "catalog_item_id": "a5d920b94c1d41a182db6258dc5eea5b",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "angelonia",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "8769e24080ea413b8ebca3f1b8c50951",
+      "asset_id": "8769e24080ea413b8ebca3f1b8c50951",
+      "build_version": "1.0.812.6",
+      "catalog_item_id": "122e5e90b7b8424d930be8bc1a7e05fb",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "b0cd075465c44f87be3b505ac04a2e46",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "602eb4abc8764c87b7f2607a1ef8c18e",
+      "asset_id": "602eb4abc8764c87b7f2607a1ef8c18e",
+      "build_version": "2609-591",
+      "catalog_item_id": "d1aec7fb384d4f98beb902d813bbae3c",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "cbd5b3d310a54b12bf3fe8c41994174f",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Fortnite",
+      "asset_id": "Fortnite",
+      "build_version": "++Fortnite+Release-34.10-CL-40567068-Windows",
+      "catalog_item_id": "4fe75bbc5a674f4f9b356b5c90567da5",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "FortniteInstallationPool"
+      },
+      "namespace": "fn",
+      "sidecar_rev": 0
+    }
+  ]
+}

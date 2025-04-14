@@ -1,0 +1,13 @@
+2025/04/07-15:15:36.275 606 Reusing MANIFEST /home/SamDaaEpic/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.terabox.app_0.indexeddb.leveldb/MANIFEST-000001
+2025/04/07-15:15:36.275 606 Recovering log #7
+2025/04/07-15:15:36.275 606 Reusing old log /home/SamDaaEpic/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.terabox.app_0.indexeddb.leveldb/000007.log 
+2025/04/07-15:15:36.420 612 Level-0 table #11: started
+2025/04/07-15:15:36.421 612 Level-0 table #11: 4277 bytes OK
+2025/04/07-15:15:36.422 612 Delete type=0 #7
+2025/04/07-15:15:36.422 612 Manual compaction at level-0 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at '\x00\x07\x00\x00\x05' @ 511 : 1
+2025/04/07-15:15:36.422 612 Compacting 1@0 + 1@1 files
+2025/04/07-15:15:36.424 612 Generated table #12@0: 191 keys, 4435 bytes
+2025/04/07-15:15:36.424 612 Compacted 1@0 + 1@1 files => 4435 bytes
+2025/04/07-15:15:36.425 612 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/04/07-15:15:36.425 612 Delete type=2 #11
+2025/04/07-15:15:36.425 607 Manual compaction at level-0 from '\x00\x07\x00\x00\x05' @ 511 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)

@@ -1,0 +1,15 @@
+2025/04/12-16:36:52.572 151e5 Reusing MANIFEST /home/SamDaaEpic/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_in.bookmyshow.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/04/12-16:36:52.572 151e5 Recovering log #7
+2025/04/12-16:36:52.573 151e5 Reusing old log /home/SamDaaEpic/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_in.bookmyshow.com_0.indexeddb.leveldb/000007.log 
+2025/04/12-16:37:25.061 151e6 Level-0 table #12: started
+2025/04/12-16:37:25.063 151e6 Level-0 table #12: 6807 bytes OK
+2025/04/12-16:37:25.065 151e6 Delete type=0 #7
+2025/04/12-16:37:25.065 151e6 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2025/04/12-16:37:25.065 151e6 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01 \x03\x00\x004\xe5\x9abyB\x00\x01J\x00a\x00p\x00i\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00i\x00n\x00.\x00b\x00o\x00o\x00k\x00m\x00y\x00s\x00h\x00o\x00w\x00.\x00c\x00o\x00m\x00/\x00a\x00p\x00i\x00/\x00s\x00e\x00o\x00/\x00v\x001\x00/\x00f\x00o\x00o\x00t\x00e\x00r\x00?\x00u\x00r\x00l\x00=\x00/\x00e\x00x\x00p\x00l\x00o\x00r\x00e\x00/\x00h\x00o\x00m\x00e\x00/\x00d\x00e\x00h\x00r\x00a\x00d\x00u\x00n' @ 1486 : 1
+2025/04/12-16:37:25.065 151e6 Compacting 1@1 + 1@2 files
+2025/04/12-16:37:25.068 151e6 Generated table #13@1: 133 keys, 14847 bytes
+2025/04/12-16:37:25.068 151e6 Compacted 1@1 + 1@2 files => 14847 bytes
+2025/04/12-16:37:25.070 151e6 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/04/12-16:37:25.070 151e6 Delete type=2 #9
+2025/04/12-16:37:25.070 151e6 Delete type=2 #12
+2025/04/12-16:37:25.070 151e6 Manual compaction at level-1 from '\x00\x01\x01 \x03\x00\x004\xe5\x9abyB\x00\x01J\x00a\x00p\x00i\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00i\x00n\x00.\x00b\x00o\x00o\x00k\x00m\x00y\x00s\x00h\x00o\x00w\x00.\x00c\x00o\x00m\x00/\x00a\x00p\x00i\x00/\x00s\x00e\x00o\x00/\x00v\x001\x00/\x00f\x00o\x00o\x00t\x00e\x00r\x00?\x00u\x00r\x00l\x00=\x00/\x00e\x00x\x00p\x00l\x00o\x00r\x00e\x00/\x00h\x00o\x00m\x00e\x00/\x00d\x00e\x00h\x00r\x00a\x00d\x00u\x00n' @ 1486 : 1 .. (end); will stop at (end)

@@ -1,0 +1,36 @@
+2025/04/11-22:24:49.948 ec53 Reusing MANIFEST /home/SamDaaEpic/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.pw.live_0.indexeddb.leveldb/MANIFEST-000001
+2025/04/11-22:24:49.949 ec53 Recovering log #342
+2025/04/11-22:24:49.949 ec53 Reusing old log /home/SamDaaEpic/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.pw.live_0.indexeddb.leveldb/000342.log 
+2025/04/11-22:24:49.949 ec53 Delete type=2 #341
+2025/04/11-22:24:49.968 ec54 Level-0 table #347: started
+2025/04/11-22:24:49.969 ec54 Level-0 table #347: 641 bytes OK
+2025/04/11-22:24:49.970 ec54 Delete type=0 #342
+2025/04/11-22:24:49.970 ec54 Manual compaction at level-0 from '\x00s\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00t\x00\x00\x00' @ 0 : 0; will stop at '\x00s\x00\x00\x05' @ 4601 : 1
+2025/04/11-22:24:49.970 ec54 Compacting 1@0 + 1@1 files
+2025/04/11-22:24:49.972 ec54 Generated table #348@0: 203 keys, 3398 bytes
+2025/04/11-22:24:49.972 ec54 Compacted 1@0 + 1@1 files => 3398 bytes
+2025/04/11-22:24:49.973 ec54 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/04/11-22:24:49.973 ec54 Delete type=2 #347
+2025/04/11-22:24:49.973 ec54 Manual compaction at level-0 from '\x00s\x00\x00\x05' @ 4601 : 1 .. '\x00t\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/04/11-22:24:50.005 ec55 Level-0 table #350: started
+2025/04/11-22:24:50.006 ec55 Level-0 table #350: 1150 bytes OK
+2025/04/11-22:24:50.007 ec55 Delete type=0 #346
+2025/04/11-22:24:50.007 ec55 Delete type=2 #344
+2025/04/11-22:24:50.007 ec55 Manual compaction at level-0 from '\x00t\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00u\x00\x00\x00' @ 0 : 0; will stop at '\x00t\x00\x00\x05' @ 4632 : 1
+2025/04/11-22:24:50.007 ec55 Compacting 1@0 + 1@1 files
+2025/04/11-22:24:50.008 ec55 Generated table #351@0: 203 keys, 3394 bytes
+2025/04/11-22:24:50.008 ec55 Compacted 1@0 + 1@1 files => 3394 bytes
+2025/04/11-22:24:50.009 ec55 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/04/11-22:24:50.009 ec55 Delete type=2 #350
+2025/04/11-22:24:50.009 ec53 Manual compaction at level-0 from '\x00t\x00\x00\x05' @ 4632 : 1 .. '\x00u\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/04/11-22:24:50.009 ec53 Level-0 table #353: started
+2025/04/11-22:24:50.010 ec53 Level-0 table #353: 1749 bytes OK
+2025/04/11-22:24:50.012 ec53 Delete type=2 #348
+2025/04/11-22:24:50.012 ec53 Delete type=0 #349
+2025/04/11-22:24:50.012 ec53 Manual compaction at level-0 from '\x00u\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00v\x00\x00\x00' @ 0 : 0; will stop at '\x00u\x00\x00\x05' @ 4649 : 1
+2025/04/11-22:24:50.012 ec53 Compacting 1@0 + 1@1 files
+2025/04/11-22:24:50.013 ec53 Generated table #354@0: 203 keys, 4088 bytes
+2025/04/11-22:24:50.014 ec53 Compacted 1@0 + 1@1 files => 4088 bytes
+2025/04/11-22:24:50.015 ec53 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/04/11-22:24:50.015 ec53 Delete type=2 #353
+2025/04/11-22:24:50.015 ec53 Manual compaction at level-0 from '\x00u\x00\x00\x05' @ 4649 : 1 .. '\x00v\x00\x00\x00' @ 0 : 0; will stop at (end)

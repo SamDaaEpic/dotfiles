@@ -1,0 +1,42 @@
+2025/04/14-09:33:18.171 4 Reusing MANIFEST /home/SamDaaEpic/.config/BraveSoftware/Brave-Browser/Default/Session Storage/MANIFEST-000001
+2025/04/14-09:33:18.172 4 Recovering log #1327
+2025/04/14-09:33:18.172 4 Reusing old log /home/SamDaaEpic/.config/BraveSoftware/Brave-Browser/Default/Session Storage/001327.log 
+2025/04/14-09:37:04.392 5 Level-0 table #1331: started
+2025/04/14-09:37:04.395 5 Level-0 table #1331: 14615 bytes OK
+2025/04/14-09:37:04.397 5 Delete type=0 #1327
+2025/04/14-10:22:40.820 5 Level-0 table #1333: started
+2025/04/14-10:22:40.824 5 Level-0 table #1333: 25838 bytes OK
+2025/04/14-10:22:40.827 5 Delete type=0 #1330
+2025/04/14-10:38:04.705 5 Level-0 table #1335: started
+2025/04/14-10:38:04.709 5 Level-0 table #1335: 22084 bytes OK
+2025/04/14-10:38:04.711 5 Delete type=0 #1332
+2025/04/14-10:38:04.712 5 Compacting 4@0 + 1@1 files
+2025/04/14-10:38:04.761 5 Generated table #1336@0: 42212 keys, 774103 bytes
+2025/04/14-10:38:04.761 5 Compacted 4@0 + 1@1 files => 774103 bytes
+2025/04/14-10:38:04.762 5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/04/14-10:38:04.763 5 Delete type=2 #1331
+2025/04/14-10:38:04.763 5 Delete type=2 #1333
+2025/04/14-10:38:04.763 5 Delete type=2 #1326
+2025/04/14-10:38:04.763 5 Delete type=2 #1328
+2025/04/14-10:38:04.763 5 Delete type=2 #1335
+2025/04/14-10:52:36.283 5 Level-0 table #1338: started
+2025/04/14-10:52:36.289 5 Level-0 table #1338: 24062 bytes OK
+2025/04/14-10:52:36.292 5 Delete type=0 #1334
+2025/04/14-10:58:27.608 5 Level-0 table #1340: started
+2025/04/14-10:58:27.613 5 Level-0 table #1340: 28500 bytes OK
+2025/04/14-10:58:27.616 5 Delete type=0 #1337
+2025/04/14-11:25:26.447 5 Level-0 table #1342: started
+2025/04/14-11:25:26.449 5 Level-0 table #1342: 18759 bytes OK
+2025/04/14-11:25:26.451 5 Delete type=0 #1339
+2025/04/14-11:27:10.980 5 Level-0 table #1344: started
+2025/04/14-11:27:10.983 5 Level-0 table #1344: 33473 bytes OK
+2025/04/14-11:27:10.985 5 Delete type=0 #1341
+2025/04/14-11:27:10.986 5 Compacting 4@0 + 1@1 files
+2025/04/14-11:27:11.014 5 Generated table #1345@0: 42499 keys, 822992 bytes
+2025/04/14-11:27:11.014 5 Compacted 4@0 + 1@1 files => 822992 bytes
+2025/04/14-11:27:11.015 5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/04/14-11:27:11.016 5 Delete type=2 #1344
+2025/04/14-11:27:11.016 5 Delete type=2 #1336
+2025/04/14-11:27:11.017 5 Delete type=2 #1342
+2025/04/14-11:27:11.017 5 Delete type=2 #1340
+2025/04/14-11:27:11.017 5 Delete type=2 #1338
