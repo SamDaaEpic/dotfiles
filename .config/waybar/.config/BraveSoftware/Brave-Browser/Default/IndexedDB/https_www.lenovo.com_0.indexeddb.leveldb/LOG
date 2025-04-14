@@ -1,7 +1,0 @@
-2025/03/17-22:25:35.412 453 Reusing MANIFEST /home/SamDaaEpic/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.lenovo.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/03/17-22:25:35.413 453 Recovering log #3
-2025/03/17-22:25:35.413 453 Reusing old log /home/SamDaaEpic/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.lenovo.com_0.indexeddb.leveldb/000003.log 
-2025/03/17-22:35:52.828 453 Level-0 table #5: started
-2025/03/17-22:35:52.830 453 Level-0 table #5: 7222 bytes OK
-2025/03/17-22:35:52.832 453 Delete type=0 #3
-2025/03/17-22:35:52.833 453 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,6 +1,0 @@
-2025/03/17-14:29:24.647 3f9 Creating DB /home/SamDaaEpic/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_forums.lutris.net_0.indexeddb.leveldb since it was missing.
-2025/03/17-14:29:24.650 3f9 Reusing MANIFEST /home/SamDaaEpic/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_forums.lutris.net_0.indexeddb.leveldb/MANIFEST-000001
-2025/03/17-14:30:30.910 3fa Level-0 table #5: started
-2025/03/17-14:30:30.913 3fa Level-0 table #5: 54082 bytes OK
-2025/03/17-14:30:30.915 3fa Delete type=0 #3
-2025/03/17-14:30:30.916 3fa Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,3 +1,0 @@
-#!/bin/bash
-> "$HOME/.config/awesome/rc.lua"
-echo -e 'require("rcluas.rc-def")' >> "$HOME/.config/awesome/rc.lua"

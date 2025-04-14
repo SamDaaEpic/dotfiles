@@ -1,2 +1,0 @@
-#!/bin/bash
-mpc toggle && "/home/SamDaaEpic/.local/bin/mpc-notify"

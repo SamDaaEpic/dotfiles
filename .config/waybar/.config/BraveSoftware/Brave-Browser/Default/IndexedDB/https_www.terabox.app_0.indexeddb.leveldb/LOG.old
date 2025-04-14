@@ -1,7 +1,0 @@
-2025/03/30-19:55:51.833 b826 Reusing MANIFEST /home/SamDaaEpic/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.terabox.app_0.indexeddb.leveldb/MANIFEST-000001
-2025/03/30-19:55:51.833 b826 Recovering log #4
-2025/03/30-19:55:51.834 b826 Reusing old log /home/SamDaaEpic/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.terabox.app_0.indexeddb.leveldb/000004.log 
-2025/03/30-19:55:51.840 b831 Level-0 table #8: started
-2025/03/30-19:55:51.842 b831 Level-0 table #8: 10507 bytes OK
-2025/03/30-19:55:51.843 b831 Delete type=0 #4
-2025/03/30-19:55:51.843 b826 Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)
